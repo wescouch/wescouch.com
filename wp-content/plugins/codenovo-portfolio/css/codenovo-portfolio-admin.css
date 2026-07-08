@@ -1,0 +1,45 @@
+.form-table{
+    width:100%;
+    color:#222;
+}
+.div-wrapper{
+    margin-left:0px;
+    float: left;
+    width:100%;
+}
+.inside{
+    float:left;
+    width:45%;
+}
+.right_section{
+    float:left;
+    width:45%;
+    color:#222;
+}
+.right_section img{
+    max-width:100%;
+}
+.right_section .title{
+    background-color:#222;
+    border:1px solid #222;
+    color:#fff;
+    padding:10px;
+    margin:0;
+    font-weight:bold;
+    font-size:16px;
+}
+.right_section .title span{
+    font-weight:bold;
+}
+.right_section .title span span{
+    float:right;
+}
+input.full-text{
+    width: 100%;
+}
+.title-description{
+    border:1px solid #222;
+    padding:10px;
+    margin-bottom: 30px;
+}
+
